@@ -1,0 +1,22 @@
+{
+  "name": "mvvm-test1",
+  "homepage": "https://github.com/s1gmund80/mvvm-test1",
+  "authors": [
+    "s1gmund80 <mail@ivanmartinelli.it>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "angular" : "~1.5.0",
+    "angular-route": "~1.5.0"
+  }
+}
